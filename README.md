@@ -25,8 +25,8 @@ Over the past 25 years, I have advised public institutions, large corporations a
 
 - Partner, Wavestone
 - Board Member, IEEP
-- Board Member, IEEP
-- Signatory, Coalition for Sustainable AI
+- Independent expert, European Commission
+- French Foreign Trade Advisor
 - Reservist Citizen, French Navy
 
 ## Contact
