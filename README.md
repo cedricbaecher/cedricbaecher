@@ -1,16 +1,35 @@
-## Hi there 👋
+# Cédric Baecher
 
-<!--
-**cedricbaecher/cedricbaecher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Partner at Wavestone
 
-Here are some ideas to get you started:
+Board Member, Institute for European Environmental Policy (IEEP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sustainability, Responsible AI and Business Transformation
+
+## About
+
+I help organizations navigate the intersection of sustainability, digital transformation and artificial intelligence.
+
+Over the past 25 years, I have advised public institutions, large corporations and international organizations on strategy, transformation and long-term value creation.
+
+## Areas of focus
+
+- Responsible AI
+- Sustainable AI
+- Sustainability Transformation
+- ESG and Corporate Sustainability
+- European Competitiveness
+- Digital Transformation
+
+## Selected roles
+
+- Partner, Wavestone
+- Board Member, IEEP
+- Board Member, IEEP
+- Signatory, Coalition for Sustainable AI
+- Reservist Citizen, French Navy
+
+## Contact
+
+LinkedIn: www.linkedin.com/in/cedricbaecher
+``
